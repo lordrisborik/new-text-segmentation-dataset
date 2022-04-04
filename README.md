@@ -9,7 +9,7 @@ Here, I present a new dataset. In the dataset, the text is formatted as pandas d
 
 all Aticles are collected from World Wide Web news portals.
 
-There are 3 folders. Folder one: baseBall-Vaccine-1039, it has 1039 text, each text has baseBall realated sentences and Vaccine related sentences.
+There are 4 folders. Folder one: merged-baseBall-Vaccine-1039, it has 1039 text, each text has baseBall realated sentences and Vaccine related sentences.
 
 Folder two: merged-cinema_software-5025, it has 5025 text, each text has cinema realated sentences and software related sentences.
 
