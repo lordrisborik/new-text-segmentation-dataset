@@ -15,6 +15,6 @@ Folder two: merged-cinema_software-5025, it has 5025 documents, each has cinema 
 
 Folder three: merged-school-humanRt-airTrafic-1681, it has 1681 documents, each has school related sentences, human rights related sentences and air traffic related sentences.
 
-Folder four: merged-fire-student-judiciary-railway-42119, it has 42119 documents, each has 4 diffirent articles : fire related, student related, judiciary related and railway related.
+fourth: merged-fire-student-judiciary-railway-42119, link: https://www.dropbox.com/s/5f8mjxohvyqw5a0/merged-fire-student-judiciary-railway-42119.rar?dl=0 , it has 42119 documents, each has 4 diffirent articles : fire related, student related, judiciary related and railway related.
 
 This text segmentation dataset provided as it is.
